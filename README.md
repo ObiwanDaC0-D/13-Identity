@@ -7,6 +7,8 @@ An interactive, standalone, static educational application exploring identity ac
 - Searchable and filterable theory library
 - Interactive SVG concept network with selectable nodes, discipline filtering, and zoom
 - Side-by-side framework comparisons
+- Six applied case studies with multi-theory explanations and critical-thinking prompts
+- Eighteen retrieval-practice cards with self-rated review scheduling and JSON progress export
 - Eight-question knowledge check
 - Private browser-local reflection studio with JSON export
 - Five-stage study path, local completion tracking and bookmarks
