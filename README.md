@@ -3,13 +3,13 @@
 An interactive, standalone, static educational application exploring identity across sociology, psychology, neuroscience, philosophy, development, and anthropology.
 
 ## Features
-- 20 curated frameworks with core propositions, mechanisms, examples, cautions and reading references
+- 36 curated frameworks with core propositions, mechanisms, examples, cautions and reading references
 - Searchable and filterable theory library
-- Interactive concept-neighbor map
+- Interactive SVG concept network with selectable nodes, discipline filtering, and zoom
 - Side-by-side framework comparisons
 - Eight-question knowledge check
 - Private browser-local reflection studio with JSON export
-- Four-stage study path, local completion tracking and bookmarks
+- Five-stage study path, local completion tracking and bookmarks
 - Responsive, accessible dark interface
 
 ## Run
