@@ -5,6 +5,7 @@ An interactive, standalone, static educational application exploring identity ac
 ## Features
 - 36 curated frameworks with core propositions, mechanisms, examples, cautions and reading references
 - Searchable and filterable theory library
+- 36 structured deep lessons across four learning tracks, including learning objectives, theory comparisons, source orientation, critical-thinking exercises, and locally saved responses
 - Interactive SVG concept network with selectable nodes, discipline filtering, and zoom
 - Side-by-side framework comparisons
 - Six applied case studies with multi-theory explanations and critical-thinking prompts
